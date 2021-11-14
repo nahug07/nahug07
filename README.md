@@ -18,7 +18,6 @@
 - 📫 Comunícate conmigo **nahuelgrijalba@gmail.com**
 
 <br/>
-<br/>
 
 ## 🚀 Lenguajes y Tecnologías:
 
@@ -48,6 +47,8 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nahug07&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+<br/>
 
 ## 📊 Mis estadísticas de Github 
 
