@@ -5,7 +5,7 @@
 <br/>
 
 
-## 🙋‍♂️ Sobre mí
+## 🙋‍♂️ < Sobre mí >
 
 - 📚 Actualmente sigo estudiando **nuevas tecnologías para sumar conocimientos.**
 
@@ -19,7 +19,7 @@
 
 <br/>
 
-## 🚀 Lenguajes y Tecnologías:
+## 🚀 < Lenguajes y Tecnologías: >
 
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
@@ -50,7 +50,7 @@
 
 <br/>
 
-## 📊 Mis estadísticas de Github 
+## 📊 < Mis estadísticas de Github > 
 
   <br/>
   <p align="center">
@@ -64,7 +64,7 @@
 <br/>
 
 
-## 🔎 Contáctame:
+## 🔎 < Contáctame: >
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/nahuel-grijalba/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -75,7 +75,7 @@
 </p>
 <br/>
 
-## 🧿 Vistas y Seguidores
+## 🧿 < Vistas y Seguidores >
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=nahug07">
 </a>
