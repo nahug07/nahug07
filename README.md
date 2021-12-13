@@ -65,10 +65,10 @@
     <table>
   <td align="center">
     <details open><summary>Full year isometric calendar</summary>
-      <img src="https://github.com/nahug07/nahug07/blob/master/metrics.plugin.isocalendar.fullyear.svg">
+      <img src="https://github.com/nahug07/blob/master/metrics.plugin.isocalendar.fullyear.svg">
     </details>
     <details><summary>Half year isometric calendar</summary>
-      <img src="https://github.com/nahug07/nahug07/blob/master/metrics.plugin.isocalendar.svg">
+      <img src="https://github.com/nahug07/blob/master/metrics.plugin.isocalendar.svg">
     </details>
     <img width="900" height="1" alt="">
   </td>
