@@ -62,17 +62,7 @@
   <br/>
   <a href="https://github.com/nahug07/github-readme-activity-graph"><img alt="nahug07's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nahug07&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
     
-    <table>
-  <td align="center">
-    <details open><summary>Full year isometric calendar</summary>
-      <img src="https://github.com/nahug07/blob/master/metrics.plugin.isocalendar.fullyear.svg">
-    </details>
-    <details><summary>Half year isometric calendar</summary>
-      <img src="https://github.com/nahug07/blob/master/metrics.plugin.isocalendar.svg">
-    </details>
-    <img width="900" height="1" alt="">
-  </td>
-</table>
+   <img alt="nahug07's Activity Graph" src= "https://metrics.lecoq.io/nahug07?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FBuenos_Aires" />
 
 
 <br/>
