@@ -65,6 +65,7 @@
 
 <br/>
 <br/>
+    # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
   # Schedule updates (each hour)
