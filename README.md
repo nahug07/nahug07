@@ -105,7 +105,7 @@ jobs:
     <img src="https://komarev.com/ghpvc/?username=nahug07">
 </a>
 <a href="https://github.com/nahug07?tab=followers"><img src="https://img.shields.io/github/followers/nahug07?label=Followers&style=social" alt="GitHub Badge"></a>
-
+![Metrics](https://metrics.lecoq.io/nahug07?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FBuenos_Aires)
 
 <br/>
 <br/>
