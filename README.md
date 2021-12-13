@@ -61,7 +61,7 @@
     <a href="https://github.com/nahug07/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=nahug07&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> 
   
   <br/>
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nahug07)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <a href="https://github.com/nahug07/github-readme-activity-graph"><img alt="nahug07's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nahug07&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
