@@ -65,7 +65,29 @@
 
 <br/>
 <br/>
+name: Metrics
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
 
+          # Options
+          user: nahug07
+          template: classic
+          base: ""
+          config_timezone: America/Buenos_Aires
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
 
 ## 🔎 < Contáctame: />
 <p align="left">
