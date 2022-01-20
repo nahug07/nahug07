@@ -13,8 +13,6 @@
 
 - 👨‍💻 Todos mis proyectos estan disponibles en **[Mi Portfolio](https://portfolio-nine-alpha-20.vercel.app/)**
 
-- 👨‍👩‍👧‍👦 Me gustaría colaborar en **Proyectos OpenSource**
-
 - 📫 Comunícate conmigo **nahuelgrijalba@gmail.com**
 
 <br/>
