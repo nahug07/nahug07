@@ -1,16 +1,11 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  Soy Nahuel Grijalba </a>
-
-    
 </h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&lines=Full+Stack+Developer"></a>
-
-    
 </p>
-
 <br/>
 
 
@@ -54,7 +49,6 @@
   
 </p>
 <b>Nota:</b> Tener en cuenta que solo toma en cuenta los lenguajes de mi código público.
-
 <br/>
 
 ## 📊 < Mis estadísticas de Github /> 
@@ -74,12 +68,9 @@
 
 ## 🔎 < Contáctame: />
 <p align="left">
-
 <a href = "https://www.linkedin.com/in/nahuel-grijalba/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/nahuugrijalba_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-
 </p>
 <br/>
 
@@ -88,7 +79,6 @@
     <img src="https://komarev.com/ghpvc/?username=nahug07">
 </a>
 <a href="https://github.com/nahug07?tab=followers"><img src="https://img.shields.io/github/followers/nahug07?label=Followers&style=social" alt="GitHub Badge"></a>
-
 <br/>
 <br/>
 © 2021 GitHub, Inc.
