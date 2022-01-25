@@ -11,7 +11,7 @@
 
 ## 🙋‍♂️ < Sobre mí />
 
-- 📚 Actualmente sigo estudiando **nuevas tecnologías para sumar conocimientos.**
+- 📚 Actualmente estoy estudiando **direfentes tecnologías para sumar nuevos conocimientos.**
 
 -  ✈ 🌱 🦾  Soy amante de **los viajes, la naturaleza y la actividad física.**
 
