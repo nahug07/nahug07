@@ -15,13 +15,13 @@
 
 -  ✈ 🌱 🦾  Amante de **los viajes, la naturaleza y la actividad física.**
 
-- 👨‍💻 Todos mis proyectos estan disponibles en **[Mi Portfolio](https://portfolio-nine-alpha-20.vercel.app/)**
+- 👨‍💻 Algunos de mis proyectos estan disponibles en **[Mi Portfolio](https://portfolio-nine-alpha-20.vercel.app/)**
 
 - 📫 Comunícate conmigo **nahuelgrijalba@gmail.com**
 
 <br/>
 
-## 🚀 < Lenguajes y Tecnologías: />
+## 🚀 < Lenguajes y Tecnologías />
 
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
@@ -64,7 +64,7 @@
   </p>
   <br/>
 
-## 🔎 < Contáctame: />
+## 🔎 < Contáctame />
 <p align="left">
 <a href = "https://www.linkedin.com/in/nahuel-grijalba/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
