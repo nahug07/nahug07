@@ -72,8 +72,6 @@
 ## 🔎 < Contáctame />
 <p align="left">
 <a href = "https://www.linkedin.com/in/nahuel-grijalba/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 <br/>
 
