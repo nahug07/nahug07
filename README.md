@@ -84,7 +84,7 @@
 <a href="https://github.com/nahug07?tab=followers"><img src="https://img.shields.io/github/followers/nahug07?label=Followers&style=social" alt="GitHub Badge"></a>
 <br/>
 <br/>
-© 2021 GitHub, Inc.
+© 2024 GitHub, Inc.
 Terms
 Privacy
 Security
