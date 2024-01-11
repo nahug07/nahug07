@@ -110,6 +110,8 @@
 
 ##
 
+![Snake animation](https://github.com/nahug07/nahug07blob/output/github-contribution-grid-snake.svg)
+
 <img src="https://raw.githubusercontent.com/nahug07/nahug07/output/snake.svg" alt="Snake animation" />
 
 
