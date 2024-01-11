@@ -22,7 +22,7 @@
 
 - 🦾 Amante de **los viajes, la naturaleza y la actividad física.**
 
-- 👨‍💻 Algunos de mis proyectos estan disponibles en **[Mi Portfolio](https://nahuel-grijalba.vercel.app/)**
+- 👨‍💻 Algunos de mis proyectos estan disponibles en <a href="https://nahuel-grijalba.vercel.app/" target="_blank">Mi Portfolio</a>.
 
 - 📫 Comunícate conmigo **nahuelgrijalba@gmail.com**
 
