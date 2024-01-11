@@ -18,7 +18,7 @@
 
 - 💻 Actualmente me encuentro ocupando el cargo de **Front End Developer** desarrollando interfaces web de alta calidad y rendimiento con **Next.js**.
 
-- 📚 Estoy siempre aprendiendo nuevas tecnologías web para **mejorar mis habilidades**
+- 📚 Constantemente estoy estudiando **direfentes tecnologías para sumar nuevos conocimientos**.
 
 - 🦾 Amante de **los viajes, la naturaleza y la actividad física.**
 
