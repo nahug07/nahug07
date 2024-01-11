@@ -16,7 +16,7 @@
 
 ## 🙋‍♂️ < Sobre mí />
 
-- 💻 Actualmente me encuentro ocupando el cargo de **Front End Developer** desarrollando interfaces web de alta calidad y rendimiento con **Next.js**.
+- 💻 Actualmente me encuentro ocupando el cargo de **Front End Developer** desarrollando interfaces web de alta calidad y rendimiento con **Next.js** en <a href="https://www.agroconsultasonline.com/" target="_blank">AgroconsultasOnline</a>.
 
 - 📚 Constantemente estoy estudiando **direfentes tecnologías para sumar nuevos conocimientos**.
 
