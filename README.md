@@ -82,7 +82,7 @@
 <br/>
 
 <p>
-    <a href="https://github.com/nahug07/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahug07&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+    <a href="https://github.com/nahug07/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahug07&langs_count=8&count_private=true&layout=compact&theme=dracula&hide_border=false" /></a></p>
   
 </p>
 <b>Nota:</b> Tener en cuenta que solo toma en cuenta los lenguajes de mi código público.
