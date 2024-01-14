@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hola! Soy Nahuel Grijalba </a>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Nahuel Grijalba </a>
 </h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&lines=Full+Stack+Developer"></a>
@@ -14,21 +14,21 @@
 
 
 
-## 🙋‍♂️ < Sobre mí />
+## 🙋‍♂️ < About me />
 
-- 💻 Actualmente me encuentro ocupando el cargo de **Front End Developer** desarrollando interfaces web de alta calidad y rendimiento con **Next.js** en <a href="https://www.agroconsultasonline.com/" target="_blank">AgroconsultasOnline</a>.
+- 💻 I am currently holding the position of **Front End Developer** developing high quality and high performance web interfaces with **Next.js** at <a href="https://www.agroconsultasonline.com/" target="_blank">AgroconsultasOnline</a>.
 
-- 📚 Constantemente estoy estudiando **direfentes tecnologías para sumar nuevos conocimientos**.
+- 📚 I am constantly studying **different technologies to add new knowledge**.
 
-- 🦾 Amante de **los viajes, la naturaleza y la actividad física.**
+- 🦾 I love **travel, nature and physical activity**.
 
-- 👨‍💻 Algunos de mis proyectos estan disponibles en <a href="https://nahuel-grijalba.vercel.app/" target="_blank">Mi Portfolio</a>.
+- 👨‍💻 Some of my projects are available at <a href="https://nahuel-grijalba.vercel.app/" target="_blank">My Portfolio</a>.
 
-- 📫 Comunícate conmigo **nahuelgrijalba@gmail.com**
+- 📫 Contact me at **nahuelgrijalba@gmail.com**
 
 <br/>
 
-## 🚀 < Lenguajes y Tecnologías />
+## 🚀 < Languages and Technologies />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -85,10 +85,10 @@
     <a href="https://github.com/nahug07/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahug07&langs_count=8&count_private=true&layout=compact&theme=dracula&hide_border=false" /></a></p>
   
 </p>
-<b>Nota:</b> Tener en cuenta que solo toma en cuenta los lenguajes de mi código público.
+Note that it only takes into account the languages of my public code.
 <br/>
 
-## 📊 < Mis estadísticas de Github /> 
+## 📊 < My Github statistics /> 
 
 <img src="https://raw.githubusercontent.com/nahug07/nahug07/output/snake.svg" alt="Snake animation" />
 
@@ -97,7 +97,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nahug07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
-## 🔎 < Contáctame />
+## 🔎 < Contact me />
 <div align="left">
   <a href="mailto:nahuelgrijalba@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -108,7 +108,7 @@
 </div>
 <br/>
 
-## 🧿 < Vistas y Seguidores />
+## 🧿 < Views and Followers />
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=nahug07">
 </a>
