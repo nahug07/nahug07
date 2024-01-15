@@ -10,8 +10,6 @@
 </h3>
 
 
-
-
 ## 🙋‍♂️ < About me />
 
 - 💻 I am currently holding the position of **Front End Developer** developing high quality and high performance web interfaces with **Next.js** at <a href="https://www.agroconsultasonline.com/" target="_blank">AgroconsultasOnline</a>.
@@ -81,21 +79,23 @@
 </div>
 <br/>
 
-<p>
-    <a href="https://github.com/nahug07/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahug07&langs_count=8&count_private=true&layout=compact&theme=dracula&hide_border=false" /></a></p>
+<div align="left">
   
-</p>
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahug07&theme=darcula)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nahug07&theme=darcula)
+</div>  
+
 Note that it only takes into account the languages of my public code.
 <br/>
 
 ## 📊 < My Github statistics /> 
 
+  <div align="left">
 <img src="https://raw.githubusercontent.com/nahug07/nahug07/output/snake.svg" alt="Snake animation" />
 
- <div align="left">
-  <img src="https://streak-stats.demolab.com?user=nahug07&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=nahug07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahug07&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahug07&theme=darcula)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahug07&theme=darcula&utcOffset=-3)
+
+</div> 
 
 ## 🔎 < Contact me />
 <div align="left">
