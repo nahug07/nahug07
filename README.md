@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ < About me />
 
-- 💻 I am currently holding the position of **Front End Developer** developing high quality and high performance web interfaces with **Next.js** at <a href="https://www.agroconsultasonline.com/" target="_blank">AgroconsultasOnline</a>.
+- 💻 I am currently holding the position of **Front End Developer** developing high quality and high performance web interfaces with **Next.js**.
 
 - 📚 I am constantly studying **different technologies to add new knowledge**.
 
