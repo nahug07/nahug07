@@ -1,13 +1,6 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Nahuel Grijalba </a>
-</h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&lines=Full+Stack+Developer"></a>
-</p>
-<h3 align="center">
-    <img 
-    src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" 
-    width='32'>
-</h3>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Nahuel Grijalba </a></h1>
+<p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&lines=Full+Stack+Developer"></a>  </p>
+<div align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"></div>  
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  width='400'></div>  
 
 
@@ -85,7 +78,8 @@
 
 <div align="left">
   
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahug07&theme=darcula)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nahug07&theme=darcula)
+   | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahug07&theme=darcula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nahug07&theme=darcula)|
+   |-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 </div>  
 
 > [!NOTE]
@@ -96,9 +90,18 @@
 
   <div align="left">
 <img src="https://raw.githubusercontent.com/nahug07/nahug07/output/snake.svg" alt="Snake animation" />
+<br/>
+<br/>
+<br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahug07&theme=darcula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahug07&theme=darcula)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahug07&theme=darcula&utcOffset=-3)
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahug07&theme=darcula) | 
+|--------------------------------------------------------------------------------------------------------------|
+
+
+
+|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahug07&theme=darcula&utcOffset=-3) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahug07&theme=darcula)
+|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 </div> 
 
