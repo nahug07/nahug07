@@ -44,8 +44,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   </div>
   <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
